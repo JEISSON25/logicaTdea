@@ -1,1 +1,0 @@
-router.register('f',views.Accounts())
